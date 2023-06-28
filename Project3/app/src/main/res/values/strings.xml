@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project3</string>
+    <string name="address_label">Address</string>
+    <string name="fetch_info_button">Fetch file info</string>
+    <string name="file_size_label">File size</string>
+    <string name="file_type_label">File type</string>
+    <string name="file_size_default_value">0</string>
+    <string name="file_type_value_default">None</string>
+    <string name="download_file_button">Download file</string>
+    <string name="downloaded_size_label">Downloaded bytes</string>
+    <string name="downloaded_size_value">0</string>
+    <string name="notification_title">Downloading file</string>
+</resources>
